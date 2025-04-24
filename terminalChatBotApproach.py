@@ -1,11 +1,15 @@
 import time
 from openai import OpenAI
 from apiKey import OPENAI_KEY
+from docx import Document
 
 client = OpenAI(api_key=OPENAI_KEY)
 
-# Vorbereitungen (einmalig)
 assistant_id = "asst_nah37WsEZ9Jvqg94do3K3afo"
+
+# Word-Dokument vorbereiten
+document = Document()
+document.add_heading("Chatverlauf", level=1)
 
 # Thread erstellen
 thread = client.beta.threads.create()
@@ -54,3 +58,11 @@ while True:
         print(f"\nAssistant: {latest_reply}")
     else:
         print("\nAssistant: (keine Antwort erhalten)")
+
+    # Abfrage, ob der User speichern möchte
+    save_choice = input("\nMöchtest du den bisherigen Verlauf als Word-Datei speichern? (ja/nein): ").lower()
+    if save_choice == "ja":
+        filename = input("Wie soll die Datei heißen? (ohne .docx): ")
+        filepath = f"{filename}.docx"
+        document.save(filepath)
+        print(f"Datei erfolgreich gespeichert unter: {filepath}")
