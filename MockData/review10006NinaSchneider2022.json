@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2022 - 12/31/2022",
+    "Due Date": "03/31/2022"
+  },
+  "Goals": [
+    "Zahlungsdurchlaufzeiten um 10 % reduzieren",
+    "Reibungslose Monatsabschluesse sicherstellen",
+    "Qualitaet der Rechnungspruefung verbessern",
+    "Verbesserung der Datenpflege im ERP-System",
+    "Prozessoptimierungsvorschlaege im Team einbringen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 3,
+      "Fachwissen": 4,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Nina arbeitete im Jahr 2022 effizient und sorgfaeltig. Sozialkompetenzen sollten weiterentwickelt werden."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Technisch sehr stark – soziale Kompetenzen koennen mit Mentoring gefoerdert werden."
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10001,
+    "Vorname": "Maria",
+    "Nachname": "Frei",
+    "Geburtsdatum": "1992-01-30",
+    "Adresse": {
+        "Strasse": "Gallusstrasse 3",
+        "PLZ": "9000",
+        "Ort": "St. Gallen",
+        "Kanton": "St. Gallen",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 71 222 33 44",
+    "E-Mail": "maria.frei@example.com",
+    "Eintrittsdatum": "2021-09-01",
+    "Position": "Local Buyer"
+}

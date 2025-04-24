@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10007,
+    "Vorname": "Pascal",
+    "Nachname": "Eberle",
+    "Geburtsdatum": "1987-06-10",
+    "Adresse": {
+        "Strasse": "Brühlgasse 14",
+        "PLZ": "9000",
+        "Ort": "St. Gallen",
+        "Kanton": "St. Gallen",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 71 123 45 67",
+    "E-Mail": "pascal.eberle@example.com",
+    "Eintrittsdatum": "2017-09-01",
+    "Position": "Accounts Payable Admin"
+}

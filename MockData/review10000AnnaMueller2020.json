@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2020 - 12/31/2020",
+    "Due Date": "03/31/2020"
+  },
+  "Goals": [
+    "Einsparungen durch Verhandlungsfuehrung in Hoehe von 5 % erzielen",
+    "Lieferantenzufriedenheit um 10 % steigern",
+    "Risikoanalyse fuer kritische Lieferanten abschliessen",
+    "Digitale Einkaufsprozesse im ERP optimieren",
+    "Nachhaltigkeitsstandards in der Lieferkette durchsetzen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 1,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 3,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 2,
+    "Comment": "Anna zeigte im Jahr 2020 eine verlaessliche Leistung. Teamarbeit und Problemloesung waren besonders positiv. Unternehmerische Denkweise und Fuehrungskompetenz koennen weiter ausgebaut werden."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Teilnahme an Entwicklungsprogrammen fuer Fachspezialisten und Mentoring moeglich"
+  }
+}

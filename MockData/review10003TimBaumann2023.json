@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2023 - 12/31/2023",
+    "Due Date": "03/31/2023"
+  },
+  "Goals": [
+    "Verbesserung der Codequalitaet",
+    "Teilnahme an internen Weiterbildungen",
+    "Bessere Dokumentation der Arbeitsergebnisse",
+    "Reduzierung von Bugs durch mehr Tests",
+    "Verbesserung der Zusammenarbeit im Team"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 1,
+      "Veranderungsfaehigkeit": 1,
+      "Unternehmerische Kompetenz": 1,
+      "Teamfaehigkeit": 1,
+      "Kommunikationsfaehigkeit": 1,
+      "Fachwissen": 1,
+      "Fuehrungskompetenz": 1
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 1,
+    "Comment": "Die Leistung von Tim war im Jahr 2023 unter den Erwartungen. Verbesserungen in mehreren Bereichen sind erforderlich."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Fokus auf grundlegende Weiterentwicklung, derzeit keine Empfehlung fuer spezielle Programme."
+  }
+}

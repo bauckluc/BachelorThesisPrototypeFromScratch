@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2023 - 12/31/2023",
+    "Due Date": "03/31/2023"
+  },
+  "Goals": [
+    "Rechnungsverarbeitung um 10 % beschleunigen",
+    "Enge Zusammenarbeit mit Einkauf zur Fehlerreduktion",
+    "Einhalten aller Skontofristen",
+    "Teilnahme an ERP-Trainings zur Prozessoptimierung",
+    "Erstellung monatlicher Verbindlichkeiten-Reports"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 2,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 2,
+      "Fachwissen": 3,
+      "Teamfaehigkeit": 2,
+      "Kommunikationsfaehigkeit": 2,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 2,
+    "Comment": "Pascal konnte seine Leistungen im Jahr 2023 nicht stabil halten. Vor allem in der Zusammenarbeit bestehen Defizite."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Entwicklung in Teamfaehigkeit und Kommunikation dringend notwendig."
+  }
+}

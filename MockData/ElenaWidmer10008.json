@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10008,
+    "Vorname": "Elena",
+    "Nachname": "Widmer",
+    "Geburtsdatum": "1995-12-05",
+    "Adresse": {
+        "Strasse": "Stadthausstrasse 17",
+        "PLZ": "8400",
+        "Ort": "Winterthur",
+        "Kanton": "Zuerich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 52 222 33 44",
+    "E-Mail": "elena.widmer@example.com",
+    "Eintrittsdatum": "2023-04-01",
+    "Position": "Accounts Payable Admin"
+}

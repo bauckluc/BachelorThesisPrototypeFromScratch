@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2020 - 12/31/2020",
+    "Due Date": "03/31/2020"
+  },
+  "Goals": [
+    "Verbesserung der Codequalitaet",
+    "Teilnahme an internen Weiterbildungen",
+    "Bessere Dokumentation der Arbeitsergebnisse",
+    "Reduzierung von Bugs durch mehr Tests",
+    "Verbesserung der Zusammenarbeit im Team"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 2,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 2,
+      "Teamfaehigkeit": 2,
+      "Kommunikationsfaehigkeit": 2,
+      "Fachwissen": 2,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 2,
+    "Comment": "Die Leistung von Tim war im Jahr 2020 unter den Erwartungen. Verbesserungen in mehreren Bereichen sind erforderlich."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Teilnahme an Basis-Schulungsprogrammen zur Staerkung der Kernkompetenzen empfohlen."
+  }
+}

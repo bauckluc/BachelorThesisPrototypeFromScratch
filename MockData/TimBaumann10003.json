@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10003,
+    "Vorname": "Tim",
+    "Nachname": "Baumann",
+    "Geburtsdatum": "1991-07-19",
+    "Adresse": {
+        "Strasse": "Technoparkstrasse 1",
+        "PLZ": "8005",
+        "Ort": "Zuerich",
+        "Kanton": "Zuerich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 44 123 99 88",
+    "E-Mail": "tim.baumann@example.com",
+    "Eintrittsdatum": "2019-03-01",
+    "Position": "Software Engineer"
+}

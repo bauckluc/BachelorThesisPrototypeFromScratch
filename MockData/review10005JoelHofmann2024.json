@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2024 - 12/31/2024",
+    "Due Date": "03/31/2024"
+  },
+  "Goals": [
+    "Leitung eines Softwareprojekts",
+    "Mentoring neuer Teammitglieder",
+    "Optimierung der Softwarearchitektur",
+    "Evaluation neuer Frameworks und Technologien",
+    "Wesentliche Performanceverbesserungen umsetzen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 3,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 3,
+      "Fuehrungskompetenz": 3
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Joel ueberzeugte im Jahr 2024 durch hohe Kompetenz und Engagement."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Beruecksichtigung fuer strategische Talentprogramme empfohlen."
+  }
+}

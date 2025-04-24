@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10005,
+    "Vorname": "Joel",
+    "Nachname": "Hofmann",
+    "Geburtsdatum": "1989-02-11",
+    "Adresse": {
+        "Strasse": "Bleicherweg 45",
+        "PLZ": "8002",
+        "Ort": "Zuerich",
+        "Kanton": "Zuerich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 44 567 89 00",
+    "E-Mail": "joel.hofmann@example.com",
+    "Eintrittsdatum": "2022-11-01",
+    "Position": "Software Engineer"
+}

@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 100000,
+    "Vorname": "Anna",
+    "Nachname": "Mueller",
+    "Geburtsdatum": "1990-04-12",
+    "Adresse": {
+        "Strasse": "Bahnhofstrasse 12",
+        "PLZ": "8001",
+        "Ort": "Zuerich",
+        "Kanton": "Zuerich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 44 123 45 67",
+    "E-Mail": "anna.mueller@example.com",
+    "Eintrittsdatum": "2020-06-01",
+    "Position": "Local Buyer"
+}

@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2022 - 12/31/2022",
+    "Due Date": "03/31/2022"
+  },
+  "Goals": [
+    "Rechnungsverarbeitung um 10 % beschleunigen",
+    "Enge Zusammenarbeit mit Einkauf zur Fehlerreduktion",
+    "Einhalten aller Skontofristen",
+    "Teilnahme an ERP-Trainings zur Prozessoptimierung",
+    "Erstellung monatlicher Verbindlichkeiten-Reports"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 2,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 2,
+      "Fachwissen": 2,
+      "Teamfaehigkeit": 2,
+      "Kommunikationsfaehigkeit": 2,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 2,
+    "Comment": "Im Jahr 2022 fehlte es Pascal an Konstanz. In der Kommunikation mit Kolleg:innen gibt es weiterhin Schwierigkeiten."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Keine Empfehlung fuer weitergehende Programme. Fokus auf Basisentwicklung."
+  }
+}

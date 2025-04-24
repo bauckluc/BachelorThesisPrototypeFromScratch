@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2022 - 12/31/2022",
+    "Due Date": "03/31/2022"
+  },
+  "Goals": [
+    "Einsparungen durch Verhandlungsfuehrung in Hoehe von 5 % erzielen",
+    "Lieferantenzufriedenheit um 10 % steigern",
+    "Risikoanalyse fuer kritische Lieferanten abschliessen",
+    "Digitale Einkaufsprozesse im ERP optimieren",
+    "Nachhaltigkeitsstandards in der Lieferkette durchsetzen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 2,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 4,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Anna zeigte im Jahr 2022 eine verlaessliche Leistung. Teamarbeit und Problemloesung waren besonders positiv. Unternehmerische Denkweise und Fuehrungskompetenz koennen weiter ausgebaut werden."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Teilnahme an Entwicklungsprogrammen fuer Fachspezialisten und Mentoring moeglich"
+  }
+}

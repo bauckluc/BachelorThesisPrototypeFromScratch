@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10006,
+    "Vorname": "Nina",
+    "Nachname": "Schneider",
+    "Geburtsdatum": "1990-03-15",
+    "Adresse": {
+        "Strasse": "Rigistrasse 22",
+        "PLZ": "8006",
+        "Ort": "Zuerich",
+        "Kanton": "Zuerich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 44 321 12 34",
+    "E-Mail": "nina.schneider@example.com",
+    "Eintrittsdatum": "2020-01-01",
+    "Position": "Accounts Payable Admin"
+}

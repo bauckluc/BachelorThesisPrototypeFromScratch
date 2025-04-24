@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2024 - 12/31/2024",
+    "Due Date": "03/31/2024"
+  },
+  "Goals": [
+    "Fehlerquote bei Rechnungen um 15 % senken",
+    "Effiziente Bearbeitung von Lieferantenanfragen",
+    "Verbesserung der Stammdatenqualitaet",
+    "Pruellen und Buchen aller Rechnungen unter Einhaltung der Skontofristen",
+    "Aktive Mitwirkung bei der Einfuehrung neuer Buchhaltungsprozesse"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 2,
+      "Fachwissen": 3,
+      "Teamfaehigkeit": 2,
+      "Kommunikationsfaehigkeit": 2,
+      "Fuehrungskompetenz": 3
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Im Jahr 2024 zeigte Elena eine durchwachsene Performance mit Verbesserungspotenzial."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Empfehlung fuer gezielte Unterstuetzung in fachlicher und sozialer Weiterentwicklung."
+  }
+}

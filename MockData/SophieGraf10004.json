@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10004,
+    "Vorname": "Sophie",
+    "Nachname": "Graf",
+    "Geburtsdatum": "1994-10-05",
+    "Adresse": {
+        "Strasse": "Silostrasse 9",
+        "PLZ": "9000",
+        "Ort": "St. Gallen",
+        "Kanton": "St. Gallen",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 71 987 65 43",
+    "E-Mail": "sophie.graf@example.com",
+    "Eintrittsdatum": "2021-08-15",
+    "Position": "Software Engineer"
+}

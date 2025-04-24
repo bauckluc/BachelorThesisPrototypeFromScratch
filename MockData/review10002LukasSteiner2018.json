@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2018 - 12/31/2018",
+    "Due Date": "03/31/2018"
+  },
+  "Goals": [
+    "Regionale Lieferantenbasis um 3 neue Partner erweitern",
+    "Durchlaufzeiten der Bestellungen um 8 % reduzieren",
+    "Implementation von KPI Dashboards fuer den Einkauf",
+    "Schulungen zu Verhandlungstechniken absolvieren",
+    "Proaktive Zusammenarbeit mit Produktion intensivieren"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 1,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 3,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 2,
+    "Comment": "Lukas zeigte im Jahr 2018 eine verlaessliche Leistung. Teamarbeit und Problemloesung waren besonders positiv. Unternehmerische Denkweise und Fuehrungskompetenz koennen weiter ausgebaut werden."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Teilnahme an Entwicklungsprogrammen fuer Fachspezialisten und Mentoring moeglich"
+  }
+}

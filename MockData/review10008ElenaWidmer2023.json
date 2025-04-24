@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2023 - 12/31/2023",
+    "Due Date": "03/31/2023"
+  },
+  "Goals": [
+    "Fehlerquote bei Rechnungen um 15 % senken",
+    "Effiziente Bearbeitung von Lieferantenanfragen",
+    "Verbesserung der Stammdatenqualitaet",
+    "Pruellen und Buchen aller Rechnungen unter Einhaltung der Skontofristen",
+    "Aktive Mitwirkung bei der Einfuehrung neuer Buchhaltungsprozesse"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 3,
+      "Fachwissen": 3,
+      "Teamfaehigkeit": 4,
+      "Kommunikationsfaehigkeit": 4,
+      "Fuehrungskompetenz": 4
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Elena zeigte im Jahr 2023 sehr grosses Engagement und hervorragende Leistungen in ihrem Einstieg."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Sehr gutes Startniveau – sollte fuer gezielte Fachentwicklung gefoerdert werden."
+  }
+}

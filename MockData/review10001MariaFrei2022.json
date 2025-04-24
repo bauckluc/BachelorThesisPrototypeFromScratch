@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2022 - 12/31/2022",
+    "Due Date": "03/31/2022"
+  },
+  "Goals": [
+    "Uebernahme von Projektleitung fuer Nachhaltigkeit im Einkauf",
+    "Entwicklung eines Lieferantenbewertungssystems",
+    "Kostenreduktion im indirekten Material um 4 %",
+    "Vertiefung von Marktanalysen zur Trendfrueherkennung",
+    "Aufbau eines Wissensaustausch-Forums im Einkaufsteam"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 3,
+      "Unternehmerische Kompetenz": 1,
+      "Teamfaehigkeit": 4,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 3,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Maria zeigte im Jahr 2022 eine verlaessliche Leistung. Teamarbeit und Problemloesung waren besonders positiv. Unternehmerische Denkweise und Fuehrungskompetenz koennen weiter ausgebaut werden."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Teilnahme an Entwicklungsprogrammen fuer Fachspezialisten und Mentoring moeglich"
+  }
+}

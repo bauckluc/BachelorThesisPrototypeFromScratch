@@ -1,0 +1,33 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2019 - 12/31/2019",
+    "Due Date": "03/31/2019"
+  },
+  "Goals": [
+    "Rechnungsverarbeitung um 10 % beschleunigen",
+    "Enge Zusammenarbeit mit Einkauf zur Fehlerreduktion",
+    "Einhalten aller Skontofristen",
+    "Teilnahme an ERP-Trainings zur Prozessoptimierung",
+    "Erstellung monatlicher Verbindlichkeiten-Reports"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 4,
+      "Veranderungsfaehigkeit": 4,
+      "Unternehmerische Kompetenz": 3,
+      "Fachwissen": 3,
+      "Teamfaehigkeit": 2,
+      "Kommunikationsfaehigkeit": 2,
+      "Fuehrungskompetenz": 2
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Pascal zeigte im Jahr 2019 gute fachliche Leistungen. Die soziale Interaktion bleibt jedoch eine Herausforderung."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Fachlich stark gestartet – soziale Entwicklung sollte gefoerdert werden."
+  }
+}
