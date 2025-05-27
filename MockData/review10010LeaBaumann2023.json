@@ -1,0 +1,31 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2023 - 12/31/2023",
+    "Due Date": "03/31/2024"
+  },
+  "Goals": [
+    "Zahlungsdurchlaufzeiten um 10 % reduzieren",
+    "Reibungslose Monatsabschluesse sicherstellen",
+    "Qualitaet der Rechnungspruefung verbessern",
+    "Verbesserung der Datenpflege im ERP-System",
+    "Prozessoptimierungsvorschlaege im Team einbringen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 4,
+      "Veranderungsfaehigkeit": 4,
+      "Unternehmerische Kompetenz": 3,
+      "Fachwissen": 4,
+      "Teamfaehigkeit": 4
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 4,
+    "Comment": "Lea hat im Review-Zeitraum die gesetzten Ziele solide erreicht. Besonders positiv hervorzuheben sind die hohe Veraenderungsfaehigkeit und die aktive Mitarbeit an Prozessoptimierungen. Die Qualitaet der Arbeit im Bereich Rechnungspruefung und Datenpflege war gut und hat zur Stabilitaet der Monatsabschluesse beigetragen. Insgesamt eine gute Performance mit Potenzial fuer weitere Entwicklung."
+  },
+  "Talent Information": {
+    "Risk of loss": 3,
+    "Potential/Development": "Weitere Entwicklung im Bereich unternehmerisches Denken und Uebernahme von groesseren Verantwortungsbereichen wird empfohlen. Teilnahme an internen Entwicklungsprogrammen und gezielte Weiterbildung im Bereich ERP-Optimierung koennte die berufliche Weiterentwicklung unterstuetzen."
+  }
+}

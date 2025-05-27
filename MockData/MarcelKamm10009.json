@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10009,
+    "Vorname": "Marcel",
+    "Nachname": "Kamm",
+    "Geburtsdatum": "1987-03-24",
+    "Adresse": {
+        "Strasse": "Ormisstrasse 51",
+        "PLZ": "8706",
+        "Ort": "Meilen",
+        "Kanton": "Zürich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 71 222 33 66",
+    "E-Mail": "marcel.kamm@example.com",
+    "Eintrittsdatum": "2018-01-01",
+    "Position": "Software Engineer"
+}

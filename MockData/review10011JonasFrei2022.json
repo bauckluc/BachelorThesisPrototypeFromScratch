@@ -1,0 +1,32 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/03/2022 - 12/31/2022",
+    "Due Date": "03/31/2023"
+  },
+  "Goals": [
+    "Einsparungen durch Verhandlungsfuehrung in Hoehe von 5 % erzielen",
+    "Lieferantenzufriedenheit um 10 % steigern",
+    "Risikoanalyse fuer kritische Lieferanten abschliessen",
+    "Digitale Einkaufsprozesse im ERP optimieren",
+    "Nachhaltigkeitsstandards in der Lieferkette durchsetzen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 1,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 1,
+      "Teamfaehigkeit": 1,
+      "Kommunikationsfaehigkeit": 1,
+      "Fachwissen": 1
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 1,
+    "Comment": "Die Leistungen im Review-Zeitraum lagen deutlich unter den Erwartungen. In den Bereichen intellektuelle Faehigkeiten und unternehmerische Kompetenz besteht deutlicher Entwicklungsbedarf. Veraenderungsbereitschaft, Teamfaehigkeit und Kommunikationsverhalten wurden teilweise den Anforderungen gerecht, zeigen aber Potenzial zur weiteren Verbesserung. Die gesetzten Ziele wurden nur teilweise erreicht."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Empfohlen wird eine gezielte Weiterbildung in den Bereichen analytisches Denken, eigenverantwortliches Handeln und Verhandlungsfuehrung. Zusaetzlich sollte der Fokus auf den Ausbau der Teamarbeit und der Kommunikation gelegt werden, um die Performance nachhaltig zu steigern."
+  }
+}

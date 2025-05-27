@@ -1,0 +1,31 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/01/2024 - 12/31/2024",
+    "Due Date": "03/31/2025"
+  },
+  "Goals": [
+    "Zahlungsdurchlaufzeiten um 10 % reduzieren",
+    "Reibungslose Monatsabschluesse sicherstellen",
+    "Qualitaet der Rechnungspruefung verbessern",
+    "Verbesserung der Datenpflege im ERP-System",
+    "Prozessoptimierungsvorschlaege im Team einbringen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 1,
+      "Veranderungsfaehigkeit": 2,
+      "Unternehmerische Kompetenz": 1,
+      "Fachwissen": 2,
+      "Teamfaehigkeit": 1
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 1,
+    "Comment": "Die Erwartungen an die Zielerreichung wurden im Review-Zeitraum deutlich verfehlt. In den Bereichen intellektuelle Faehigkeiten, unternehmerische Kompetenz, Teamfaehigkeit und Fachwissen bestehen erhebliche Entwicklungsfelder. Veraenderungsfaehigkeit wurde teilweise den Anforderungen entsprechend gezeigt. Eine gezielte Weiterentwicklung und intensivere Auseinandersetzung mit den Aufgabenstellungen ist notwendig, um kuenftig eine stabilere Performance zu erreichen."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Empfohlen wird die Teilnahme an gezielten Trainings zur Staerkung der analytischen Faehigkeiten, Teamarbeit und unternehmerischen Kompetenz. Zusaetzlich sollte eine engere Begleitung im Rahmen eines Coachings erfolgen, um die persoenliche und fachliche Entwicklung zu unterstuetzen."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Review Dates": {
+    "Originator": "Muster Admin",
+    "Review Period": "01/03/2024 - 12/31/2024",
+    "Due Date": "03/31/2025"
+  },
+  "Goals": [
+    "Einsparungen durch Verhandlungsfuehrung in Hoehe von 5 % erzielen",
+    "Lieferantenzufriedenheit um 10 % steigern",
+    "Risikoanalyse fuer kritische Lieferanten abschliessen",
+    "Digitale Einkaufsprozesse im ERP optimieren",
+    "Nachhaltigkeitsstandards in der Lieferkette durchsetzen"
+  ],
+  "Eigentliche Beurteilung": {
+    "Competencies": {
+      "Intellektuelle Faehigkeiten": 3,
+      "Veranderungsfaehigkeit": 4,
+      "Unternehmerische Kompetenz": 3,
+      "Teamfaehigkeit": 3,
+      "Kommunikationsfaehigkeit": 3,
+      "Fachwissen": 3
+    }
+  },
+  "Overall ratings with final comment": {
+    "Overall performance": 3,
+    "Comment": "Jonas hat im Review-Zeitraum die Erwartungen gut erfüllt. Besonders positiv aufgefallen ist die hohe Veraenderungsbereitschaft, die sich in der erfolgreichen Optimierung digitaler Einkaufsprozesse widerspiegelt. Auch in den Bereichen Teamarbeit, Fachwissen und Kommunikation wurden solide Leistungen erbracht. Die gesetzten Ziele wie Einsparungen und Risikoanalysen wurden zufriedenstellend erreicht."
+  },
+  "Talent Information": {
+    "Risk of loss": 2,
+    "Potential/Development": "Eine Weiterentwicklung in Richtung strategisches Verhandlungsmanagement und Ausbau der Fuehrungskompetenz wird empfohlen. Teilnahme an spezifischen Entwicklungsprogrammen koennte die bereits guten Faehigkeiten weiter staerken und auf ein noch hoeheres Niveau heben."
+  }
+}

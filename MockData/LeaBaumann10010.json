@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10010,
+    "Vorname": "Lea",
+    "Nachname": "Baumann",
+    "Geburtsdatum": "1992-07-15",
+    "Adresse": {
+        "Strasse": "Bahnhofstrasse 12",
+        "PLZ": "8001",
+        "Ort": "Zürich",
+        "Kanton": "Zürich",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 44 123 45 67",
+    "E-Mail": "lea.baumann@example.com",
+    "Eintrittsdatum": "2019-06-15",
+    "Position": "Accounts Payable Admin"
+}

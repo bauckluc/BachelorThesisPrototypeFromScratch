@@ -1,0 +1,17 @@
+{
+    "MitarbeiterID": 10011,
+    "Vorname": "Jonas",
+    "Nachname": "Frei",
+    "Geburtsdatum": "1985-11-02",
+    "Adresse": {
+        "Strasse": "Seestrasse 89",
+        "PLZ": "6006",
+        "Ort": "Luzern",
+        "Kanton": "Luzern",
+        "Land": "Schweiz"
+    },
+    "Telefon": "+41 41 987 65 43",
+    "E-Mail": "jonas.frei@example.com",
+    "Eintrittsdatum": "2015-03-01",
+    "Position": "Local Buyer"
+}

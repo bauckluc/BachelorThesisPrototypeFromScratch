@@ -1,0 +1,32 @@
+{
+    "Review Dates": {
+      "Originator": "Muster Admin",
+      "Review Period": "01/01/2024 - 12/31/2024",
+      "Due Date": "03/31/2025"
+    },
+    "Goals": [
+        "Leitung eines Softwareprojekts",
+        "Mentoring neuer Teammitglieder",
+        "Optimierung der Softwarearchitektur",
+        "Evaluation neuer Frameworks und Technologien",
+        "Wesentliche Performanceverbesserungen umsetzen"
+    ],
+    "Eigentliche Beurteilung": {
+      "Competencies": {
+        "Intellektuelle Faehigkeiten": 4,
+        "Veranderungsfaehigkeit": 4,
+        "Unternehmerische Kompetenz": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikationsfaehigkeit": 3,
+        "Fachwissen": 3
+      }
+    },
+    "Overall ratings with final comment": {
+      "Overall performance": 4,
+      "Comment": "Marcel hat im Review-Zeitraum ausserordentlich starke Leistungen gezeigt. Besonders hervorzuheben sind die intellektuellen Faehigkeiten, die hohe Veraenderungsbereitschaft sowie die ausgepraegte Teamfaehigkeit. Die Ziele wurden sehr erfolgreich erreicht, insbesondere bei der Leitung von Projekten und der Optimierung der Softwarearchitektur. Auch die Kommunikation und das Fachwissen sind auf einem guten Niveau und tragen wesentlich zum Teamerfolg bei."
+    },
+    "Talent Information": {
+      "Risk of loss": 2,
+      "Potential/Development": "Weiterentwicklungspotenzial besteht in der Vertiefung der unternehmerischen Kompetenz und der staerkeren Uebernahme strategischer Aufgaben. Eine gezielte Foerderung im Bereich Kommunikation koennte die bereits guten Leistungen weiter ausbauen."
+    }
+  }

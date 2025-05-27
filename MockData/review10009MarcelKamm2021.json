@@ -1,0 +1,32 @@
+{
+    "Review Dates": {
+      "Originator": "Muster Admin",
+      "Review Period": "01/01/2021 - 12/31/2021",
+      "Due Date": "03/31/2022"
+    },
+    "Goals": [
+        "Leitung eines Softwareprojekts",
+        "Mentoring neuer Teammitglieder",
+        "Optimierung der Softwarearchitektur",
+        "Evaluation neuer Frameworks und Technologien",
+        "Wesentliche Performanceverbesserungen umsetzen"
+    ],
+    "Eigentliche Beurteilung": {
+      "Competencies": {
+        "Intellektuelle Faehigkeiten": 1,
+        "Veranderungsfaehigkeit": 2,
+        "Unternehmerische Kompetenz": 1,
+        "Teamfaehigkeit": 1,
+        "Kommunikationsfaehigkeit": 1,
+        "Fachwissen": 2
+      }
+    },
+    "Overall ratings with final comment": {
+      "Overall performance": 1,
+      "Comment": "Die gesetzten Ziele wurden insgesamt nicht zufriedenstellend erreicht. Insbesondere in den Bereichen intellektuelle Faehigkeiten, unternehmerische Kompetenz, Teamfaehigkeit, Fachwissen und Fuehrungskompetenz bestehen deutliche Entwicklungsfelder. Veraenderungsfaehigkeit und Kommunikationsfaehigkeit wurden teilweise den Erwartungen entsprechend erfüllt. Eine staerkere Fokussierung auf Weiterentwicklung und Umsetzung der gesetzten Ziele wird empfohlen."
+    },
+    "Talent Information": {
+      "Risk of loss": 2,
+      "Potential/Development": "Teilnahme an Entwicklungsprogrammen fuer Fachspezialisten und Mentoring nicht empfohlen."
+    }
+  }
