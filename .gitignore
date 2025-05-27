@@ -2,6 +2,8 @@
 /apiKey.py
 /main.py
 /TestRun1
+/TestRun2
+/TestRun3
 *.doc
 *.docx
 *.xlsx
